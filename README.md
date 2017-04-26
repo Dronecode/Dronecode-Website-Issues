@@ -1,4 +1,4 @@
-# Dronecode-Website-Issues
+# Dronecode Website Issues
 
 Use the [Issue Tracker](https://github.com/Dronecode/Dronecode-Website-Issues/issues) in this repository to track bugs/enhancement requests about the [www.dronecode.org](https://www.dronecode.org/) website.
 
